@@ -1,6 +1,6 @@
 {
   "name": "pretty-colorwheel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A pretty JS colorwheel",
   "main": "colorwheel.js",
   "scripts": {
